@@ -108,3 +108,4 @@ const myTriple = (n) => {
 console.log(myTriple(3)) // = myMul(3, 3) = 9
 console.log(myTriple(4)) // = myMul(3, 4) = 12
 console.log(myTriple(5)) // = myMul(3, 5) = 15
+ 
